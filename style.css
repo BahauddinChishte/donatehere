@@ -32,3 +32,29 @@ color: white;
     padding: 1% 22% 5% 22%;
 
 }
+
+.link-button{
+    
+text-decoration:none;
+   background-color: #FF595A;
+   padding: 20px 40px;
+   border-radius: 6px;
+   color: white;
+   font-weight: 900;
+   font-size: 20px;
+
+}
+.link-style{
+    text-align: center;
+}
+
+#h2-style{
+    text-align: center;
+    padding-top: 4%;
+    font-size: 40px;
+    font-weight: bolder;
+}
+#p2-style{
+    text-align: center;
+    padding: 3% 20% 4% 20%;
+}
