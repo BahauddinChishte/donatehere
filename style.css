@@ -5,8 +5,8 @@
 }
 body{
     font-family: 'Hind Siliguri', sans-serif;
-font-family: 'Inter', sans-serif;
-font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
 
 }
 .first-style{
@@ -19,11 +19,11 @@ font-family: 'Poppins', sans-serif;
 
 }
 #h-style{
-text-align: center;
-padding-top: 10%;
-font-size: 60px;
-font-weight: bolder;
-color: white;
+    text-align: center;
+    padding-top: 10%;
+    font-size: 60px;
+    font-weight: bolder;
+    color: white;
 
 }
 #p-style{
@@ -35,13 +35,13 @@ color: white;
 
 .link-button{
     
-text-decoration:none;
-   background-color: #FF595A;
-   padding: 20px 40px;
-   border-radius: 6px;
-   color: white;
-   font-weight: 900;
-   font-size: 20px;
+    text-decoration:none;
+    background-color: #FF595A;
+    padding: 20px 40px;
+    border-radius: 6px;
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
 
 }
 .link-style{
@@ -99,6 +99,38 @@ text-decoration:none;
 
 .link-button2{
     
-  text-align: center; 
-  margin-bottom: 3%; 
+    text-align: center; 
+    padding-bottom: 8%;
+}
+
+
+.plan{
+    width: 40%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    text-align: justify;
+    border-radius: 10px;
+ 
+}
+.donation-plan{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 8%;
+
+    
+}
+
+#food{
+    background-color: #EDF5F6;
+}
+#shelter{
+    background-color: #FFEEEF;
+}
+#education{
+    background-color: #FFF4D6;
 }
